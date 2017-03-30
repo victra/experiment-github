@@ -1,3 +1,5 @@
 ini edit dari g-1
 
 sekarang kita edit buat g-2
+
+selanjutnya g-1 ngedit branch g-2
